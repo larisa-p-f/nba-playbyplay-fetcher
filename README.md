@@ -63,11 +63,11 @@ This will:
 
 ---
 
-## ⚠Notes
+## Notes
 - The script waits 5 seconds between requests to avoid hitting API rate limits.  
 - If you want multiple seasons, update the `season` variable and re-run.  
 
 ---
 
-## 📜 License
+## License
 MIT License. Free to use and modify.
