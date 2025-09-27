@@ -14,7 +14,7 @@ It retrieves **regular season** and **playoff** games, saves the full play-by-pl
 
 ---
 
-## ⚙Requirements
+## Requirements
 - Python 3.8+
 - Dependencies in `requirements.txt`
 
